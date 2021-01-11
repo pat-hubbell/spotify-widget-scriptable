@@ -1,0 +1,1 @@
+let spotify = new ListWidget();
